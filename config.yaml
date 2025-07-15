@@ -1,0 +1,6 @@
+train: ./data_split/train
+val:   ./data_split/validate
+
+nc:    1
+names: ['wheel']
+
